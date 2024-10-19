@@ -98,3 +98,8 @@ defect-free 樣本圖
 测试集为週期出現样本circular及标记缺陷区域的groundtruth, 裡面包含defect-free, 週期出現cutline以及有缺陷样本defect。以ABAB花型为例，它的文件结构图如下圖所示。
 
 ![img_9.png](img_9.png)
+
+
+## 下載
+
+稍後公佈
